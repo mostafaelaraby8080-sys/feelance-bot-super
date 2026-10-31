@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]>=20.7
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+
+# اختياري: للإرسال التلقائي على المواقع عبر متصفح
+# playwright>=1.44
